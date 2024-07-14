@@ -1,0 +1,48 @@
+ <title>saribouquet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333333;
+            color: #fff;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            <header>
+    <img src="logo.png" alt="Company Logo">
+    <h1>My Company</h1>
+    <nav>
+        <a href="#profile">Profile</a>
+        <a href="#contact">Contact</a>
+        <a href="#pricing">Pricing</a>
+    </nav>
+</header>
+
+<div class="container">
+    <div class="product">
+        <h2>Buket bunga, buket cemilan, buket bumbu, buket uang</h2>
+        <p></p>Buket untuk wisuda, ulang tahun, dll.
+    </div>
+    <div class="form-container">
+        <h2>hubungi kami!</h2>
+        <form action="#" method="post">
+            <input type="email" placeholder="Enter your email" required style="width: 100%; padding: 10px; margin-bottom: 10px;">
+            <button type="submit" style="width: 100%; padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">Sign Up</button>
+        </form>
+    </div>
+</div>
+
+<footer>
+    <div>&copy; 2024 My Company. All rights reserved.</div>
+    <div class="social-media">
+        <a href="#">Facebook@saribuquet</a>
+        <a href="#">Twitter@saribuquet</a>
+        <a href="#">Instagram@saribuquet</a>
+    </div>
+</footer>
+
+</body>
+</html>          
